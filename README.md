@@ -48,5 +48,5 @@ See the [User's Guide](Users%20Guide.md) for downloads, runtimes, installation a
 
 * 2026-11-12: Add: Live preview in the Windows Screen Saver Settings dialog
 * 2026-11-11: Add: Settings (trail length, speed); Fix: full-screen coverage on every monitor
-* 2026-11-03: Add: Multi-monitor support
-* 2026-11-02: Project started
+* 2026-11-11: Add: Multi-monitor support
+* 2026-11-11: Project started
